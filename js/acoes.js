@@ -1,6 +1,6 @@
 function abrirMenu() {
     document.getElementById('menu').style.width = '250px';
-    document.getElementById('conteudo').style.marginLeft = '1280px';
+    document.getElementById('conteudo').style.marginLeft = '1180px';
    
 }
 
